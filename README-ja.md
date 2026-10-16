@@ -1,4 +1,5 @@
-> **非公式の日本語訳です。** このリポジトリの `*-ja.md` は、[cursor/plugins の pstack ガイド](https://github.com/cursor/plugins/tree/main/pstack/docs/guide)（英語原文）を有志が翻訳したもので、Cursor や原著者による公式の翻訳ではありません。原文は MIT License（Copyright (c) 2026 Lauren Tan）で公開されており、本リポジトリにも同じ [LICENSE](./LICENSE) を同梱しています。内容に食い違いがある場合は原文を優先してください。
+> **非公式の日本語訳です。** このリポジトリの `*-ja.md` は、[cursor/plugins の pstack ガイド](https://github.com/cursor/plugins/tree/main/pstack/docs/guide)（英語原文）をAIが翻訳したもので、Cursor や原著者による公式の翻訳ではありません。原文は MIT License（Copyright (c) 2026 Lauren Tan）で公開されており、本リポジトリにも同じ [LICENSE](./LICENSE) を同梱しています。内容に食い違いがある場合は原文を優先してください。
+> キャッチアップのために作成しているため更新しない予定です。
 
 # pstack ガイド
 
